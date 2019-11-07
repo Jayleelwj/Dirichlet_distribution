@@ -1,0 +1,1 @@
+The [Dirichlet Distribution](https://en.wikipedia.org/wiki/Dirichlet_distribution) is a multivariate probability distribution that describes $\mathbf{K}$
