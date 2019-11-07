@@ -1,1 +1,1 @@
-The [Dirichlet Distribution](https://en.wikipedia.org/wiki/Dirichlet_distribution) is a multivariate probability distribution that describes $\mathbf{K}$
+The [Dirichlet Distribution](https://en.wikipedia.org/wiki/Dirichlet_distribution) is a multivariate probability distribution that describes $\mathbf{k}>=2$ variables $\mathbf{X_1,X_2,...,X_k}$, such that each $\mathbf{x_i} \in (0,1)$, and $\sum_{i=1}^{N}x_i=1$, that is parametrized by a vector of positive-valued parameters $\alpha=(\alpha_1,\alpha_2,..,\alpha_k)$. The parameters *do not* have to be integers.
